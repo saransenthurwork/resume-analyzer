@@ -22,6 +22,12 @@ A smart web app that scores how well a resume matches a job description using NL
 
 ---
 
+## 📸 Screenshots
+
+![Upload Page](screenshots/upload_page.png)  
+![Result Page](screenshots/result_page.png)
+
+
 ## 🚀 Run Locally
 
 ```bash
